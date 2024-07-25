@@ -1,0 +1,11 @@
+# Ignore the venv folder
+venv/
+
+# Ignore other common files/folders
+*.pyc
+__pycache__/
+.DS_Store
+.idea/
+.vscode/
+.env
+*.log
